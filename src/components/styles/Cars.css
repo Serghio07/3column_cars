@@ -1,0 +1,12 @@
+.cars{
+    width: 100%;
+}
+.cars-container{
+    
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30px;
+    gap: 30px;
+}

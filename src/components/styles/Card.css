@@ -1,0 +1,47 @@
+.organizmo-contenedor{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 25%;
+    
+    overflow: hidden;
+    
+}
+.orange{
+    background-color: var(--Bright-orange);
+}
+.green{
+    background-color: var(--Dark-cyan);
+}
+.dark-green{
+    background-color: var(--Very-dark-cyan);
+}
+.red{
+    background-color: red;
+}
+.violet{
+    background-color: violet;
+}
+.pink{
+    background-color: pink;
+}
+.gray{
+    background-color: gray;
+}
+.salmon{
+    background-color: salmon;
+}
+.yelow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.brown{
+    background-color: brown;
+}
+.gold{
+    background-color: gold;
+}
+.lemegreen{
+    background-color: limegreen;
+}
